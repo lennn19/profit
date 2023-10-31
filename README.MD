@@ -202,7 +202,7 @@ score = lr.score(X_test, y_test)
 print('akurasi model regresi linier = ', score)
 ```
 
-Bagus, 100%, kita test menggunakan array value
+Bagus, 84%, kita test menggunakan array value
 
 ```bash
 input_data = np.array([[200,2011,100,15,12,14]])
